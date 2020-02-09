@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/ahmidimohamed12/Nodejs-Project.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmidimohamed12/Nodejs-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmidimohamed12/Nodejs-Project/issues"
+  },
+  "homepage": "https://github.com/ahmidimohamed12/Nodejs-Project#readme"
+}
